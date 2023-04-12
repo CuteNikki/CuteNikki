@@ -11,11 +11,11 @@
 
 ## ✨ ⟩ Connect With Me:
 
-[<img align="left" alt="Verschlafene | Website" width="48px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Verschlafene | YouTube" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Verschlafene | Twitch" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Verschlafene | Twitter" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Verschlafene | Instagram" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nikki | Website" width="48px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nikki | YouTube" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Nikki | Twitch" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Nikki | Twitter" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nikki | Instagram" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
@@ -44,8 +44,8 @@
 [<img align="left" alt="unity" width="48px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" />][unity]
 [<img align="left" alt="unreal" width="48px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][unrealengine]
 
-[website]: https://github.com/Verschlafene
-[github]: https://github.com/Verschlafene
+[website]: https://github.com/BlushingNikki
+[github]: https://github.com/BlushingNikki
 [twitter]: https://twitter.com/BlushingNikki
 [instagram]: https://instagram.com/BlushingNikki
 [twitch]: https://twitch.tv/Blushing_Nikki
