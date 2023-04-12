@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Verschlafene | Website" width="48px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Verschlafene | YouTube" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Verschlafene | Twitch" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Verschlafene | Twitter" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Verschlafene | Instagram" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
@@ -44,11 +45,12 @@
 [<img align="left" alt="unreal" width="48px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][unrealengine]
 
 [website]: https://github.com/Verschlafene
-[twitter]: https://twitter.com/Verschlafeneuwu
-[youtube]: https://youtube.com/channel/UC-XO2xuqeGmqGwQpyR-yB4w
-[instagram]: https://instagram.com/Verschlafeneuwu
-[vscode]: https://code.visualstudio.com
 [github]: https://github.com/Verschlafene
+[twitter]: https://twitter.com/BlushingNikki
+[instagram]: https://instagram.com/BlushingNikki
+[twitch]: https://twitch.tv/Blushing_Nikki
+[youtube]: https://youtube.com/@BlushingNikki
+[vscode]: https://code.visualstudio.com
 [photoshop]: https://adobe.com/products/photoshop
 [illustrator]: https://adobe.com/products/illustrator
 [canvas]: https://canvasjs.com
