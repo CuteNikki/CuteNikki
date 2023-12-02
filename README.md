@@ -1,5 +1,5 @@
 ## ✨ ⟩ About Me:
-<p>‹ I'm Nikki (18 Y/O) ~ 🎀</p>
+<p>‹ I'm Nikki (19 Years Old) ~ 🎀</p>
 <p>‹ From Germany ~ 📍</p>
 <p>‹ Self-Taught Developer ~ 🔧</p>
 
