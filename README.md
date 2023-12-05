@@ -6,7 +6,7 @@
 
 ## ✨ ⟩ Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blushingnikki)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cutenikki)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ✨ ⟩ Connect With Me:
