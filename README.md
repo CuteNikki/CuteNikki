@@ -1,7 +1,7 @@
 ## ✨ ⟩ About Me:
 <p>‹ I'm Nikki (19 Years Old) ~ 🎀</p>
 <p>‹ From Germany ~ 📍</p>
-<p>‹ Self-Taught Developer ~ 🔧</p>
+<p>‹ Self-Taught Full stack Developer ~ 🔧</p>
 
 
 ## ✨ ⟩ Stats:
@@ -44,12 +44,12 @@
 [<img align="left" alt="unity" width="48px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" />][unity]
 [<img align="left" alt="unreal" width="48px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][unrealengine]
 
-[website]: https://github.com/BlushingNikki
-[github]: https://github.com/BlushingNikki
+[website]: https://github.com/CuteNikki
+[github]: https://github.com/CuteNikki
 [twitter]: https://twitter.com/BlushingNikki
 [instagram]: https://instagram.com/BlushingNikki
-[twitch]: https://twitch.tv/Blushing_Nikki
-[youtube]: https://youtube.com/@BlushingNikki
+[twitch]: https://twitch.tv/CuteNikki
+[youtube]: https://youtube.com/@CuteNikki
 [vscode]: https://code.visualstudio.com
 [photoshop]: https://adobe.com/products/photoshop
 [illustrator]: https://adobe.com/products/illustrator
