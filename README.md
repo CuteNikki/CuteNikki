@@ -154,9 +154,7 @@ Full Stack Developer
 <p align='left'>
         <a href='https://discord.com/users/cutenikki' target='_blank' rel='noreferrer'>
           <picture>
-            <source media='(prefers-color-scheme: dark)' srcset='undefined' />
             <source
-              media='(prefers-color-scheme: light)'
               srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg'
             />
             <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg' width='32' height='32' />
@@ -177,9 +175,7 @@ Full Stack Developer
         </a>
         <a href='http://www.instagram.com/blushingnikki' target='_blank' rel='noreferrer'>
           <picture>
-            <source media='(prefers-color-scheme: dark)' srcset='undefined' />
             <source
-              media='(prefers-color-scheme: light)'
               srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg'
             />
             <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' width='32' height='32' />
@@ -200,9 +196,7 @@ Full Stack Developer
         </a>
         <a href='https://www.youtube.com/@CutestNikki' target='_blank' rel='noreferrer'>
           <picture>
-            <source media='(prefers-color-scheme: dark)' srcset='undefined' />
             <source
-              media='(prefers-color-scheme: light)'
               srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg'
             />
             <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg' width='32' height='32' />
@@ -210,9 +204,7 @@ Full Stack Developer
         </a>
         <a href='https://www.twitch.tv/cutenikki' target='_blank' rel='noreferrer'>
           <picture>
-            <source media='(prefers-color-scheme: dark)' srcset='undefined' />
             <source
-              media='(prefers-color-scheme: light)'
               srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg'
             />
             <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg' width='32' height='32' />
