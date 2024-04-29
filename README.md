@@ -153,12 +153,7 @@ Full Stack Developer
 
 <p align='left'>
         <a href='https://discord.com/users/cutenikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg' width='32' height='32' />
-          </picture>
+          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg' alt='Discord' width='32' height='32' />
         </a>
         <a href='https://www.github.com/cutenikki' target='_blank' rel='noreferrer'>
           <picture>
@@ -170,16 +165,11 @@ Full Stack Developer
               media='(prefers-color-scheme: light)'
               srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg'
             />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg' width='32' height='32' />
+            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg' alt='Github' width='32' height='32' />
           </picture>
         </a>
         <a href='http://www.instagram.com/blushingnikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' width='32' height='32' />
-          </picture>
+          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' alt='Instagram' width='32' height='32' />
         </a>
         <a href='https://www.x.com/blushingnikki' target='_blank' rel='noreferrer'>
           <picture>
@@ -195,20 +185,10 @@ Full Stack Developer
           </picture>
         </a>
         <a href='https://www.youtube.com/@CutestNikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg' width='32' height='32' />
-          </picture>
+          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg' alt='YouTube' width='32' height='32' />
         </a>
         <a href='https://www.twitch.tv/cutenikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg' width='32' height='32' />
-          </picture>
+          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg' alt='Twitch' width='32' height='32' />
         </a>
       </p>
 
