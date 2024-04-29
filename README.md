@@ -4,7 +4,7 @@ Full Stack Developer
 
 
 * I'm based in Germany 🌍
-* I'm currently working on [Yanera](http://link_following_soon) 🚀
+* I'm currently working on [a Discord Bot](https://github.com/CuteNikki/discord-bot) 🚀
 * I'm open to collaborate on anything 🤝
 
 ### Skills
