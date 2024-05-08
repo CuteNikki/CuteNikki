@@ -194,14 +194,14 @@ Full Stack Developer
 
 ### My Github Stats
 
-<a href='http://www.github.com/cutenikki'>
+<a href='https://www.github.com/cutenikki'>
   <img
     src='https://github-readme-stats.vercel.app/api?username=cutenikki&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true'
     alt="cutenikki's GitHub stats"
   />
 </a>
 <br><br />
-<a href='http://www.github.com/cutenikki'>
+<a href='https://www.github.com/cutenikki'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=cutenikki&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true' />
 </a>
 <br><br />
