@@ -152,7 +152,7 @@ Full Stack Developer
 ### Socials
 
 <p align='left'>
-        <a href='https://discord.com/users/cutenikki' target='_blank' rel='noreferrer'>
+        <a href='https://discord.gg/ACR6RBQj4y' target='_blank' rel='noreferrer'>
           <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg' alt='Discord' width='32' height='32' />
         </a>
         <a href='https://www.github.com/cutenikki' target='_blank' rel='noreferrer'>
