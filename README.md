@@ -1,211 +1,34 @@
-# Hi, my name is Nikki ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, my name is Nikki 👋
 - Self-taught developer, familiar with full-stack work 📚
 - I'm currently working on [a Discord Bot](https://github.com/CuteNikki/discord-bot) 🚀
 - I'm open to collaborate on anything 🤝
 
-### Socials
+## Socials
 
-<p align='left'>
-        <a href='https://discord.gg/ACR6RBQj4y' target='_blank' rel='noreferrer'>
-          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg' alt='Discord' width='32' height='32' />
-        </a>
-        <a href='https://www.github.com/cutenikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              media='(prefers-color-scheme: dark)'
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg'
-            />
-            <source
-              media='(prefers-color-scheme: light)'
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg' alt='Github' width='32' height='32' />
-          </picture>
-        </a>
-        <a href='https://www.instagram.com/blushingnikki' target='_blank' rel='noreferrer'>
-          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' alt='Instagram' width='32' height='32' />
-        </a>
-        <a href='https://www.x.com/blushingnikki' target='_blank' rel='noreferrer'>
-          <picture>
-            <source
-              media='(prefers-color-scheme: dark)'
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg'
-            />
-            <source
-              media='(prefers-color-scheme: light)'
-              srcset='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg'
-            />
-            <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg' width='32' height='32' />
-          </picture>
-        </a>
-        <a href='https://www.youtube.com/@CutestNikki' target='_blank' rel='noreferrer'>
-          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg' alt='YouTube' width='32' height='32' />
-        </a>
-        <a href='https://www.twitch.tv/cutenikki' target='_blank' rel='noreferrer'>
-          <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg' alt='Twitch' width='32' height='32' />
-        </a>
-      </p>
+[<img src='https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt="Discord" />](https://discord.gg/ACR6RBQj4y)[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt="Instagram" />](https://instagram.com/blushingnikki)[<img src='https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white' alt="Twitter/X" />](https://x.com/blushingnikki)[<img src='https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" />](https://youtube.com/@CutestNikki)[<img src='https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white' alt="Twitch" />](https://twitch.tv/cutenikki)
 
-### Skills/Tools
+## Skills/Tools
 
-  <p align='left'>
-        <a href='https://git-scm.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg'
-            width='36'
-            height='36'
-            alt='Git'
-          />
-        </a>
-        <a href='https://www.oracle.com/java/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg'
-            width='36'
-            height='36'
-            alt='Java'
-          />
-        </a>
-        <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'
-            width='36'
-            height='36'
-            alt='JavaScript'
-          />
-        </a>
-        <a href='https://www.typescriptlang.org/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg'
-            width='36'
-            height='36'
-            alt='TypeScript'
-          />
-        </a>
-        <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg'
-            width='36'
-            height='36'
-            alt='HTML5'
-          />
-        </a>
-        <a href='https://reactjs.org/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg'
-            width='36'
-            height='36'
-            alt='React'
-          />
-        </a>
-        <a href='https://nextjs.org/docs' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg'
-            width='36'
-            height='36'
-            alt='NextJs'
-          />
-        </a>
-        <a href='https://www.w3.org/TR/CSS/#css' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg'
-            width='36'
-            height='36'
-            alt='CSS3'
-          />
-        </a>
-        <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg'
-            width='36'
-            height='36'
-            alt='TailwindCSS'
-          />
-        </a>
-    <br />
-        <a href='https://mui.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg'
-            width='36'
-            height='36'
-            alt='Material UI'
-          />
-        </a>
-        <a href='https://nodejs.org/en/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg'
-            width='36'
-            height='36'
-            alt='NodeJS'
-          />
-        </a>
-        <a href='https://expressjs.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg'
-            width='36'
-            height='36'
-            alt='Express'
-          />
-        </a>
-        <a href='https://docs.nestjs.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg'
-            width='36'
-            height='36'
-            alt='NestJS'
-          />
-        </a>
-        <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg'
-            width='36'
-            height='36'
-            alt='MongoDB'
-          />
-        </a>
-        <a href='https://www.figma.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg'
-            width='36'
-            height='36'
-            alt='Figma'
-          />
-        </a>
-        <a href='https://www.adobe.com/uk/products/photoshop.html' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg'
-            width='36'
-            height='36'
-            alt='Photoshop'
-          />
-        </a>
-        <a href='https://www.adobe.com/uk/products/illustrator.html' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg'
-            width='36'
-            height='36'
-            alt='Illustrator'
-          />
-        </a>
-      </p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+<br/>
+![Express.js](https://img.shields.io/badge/express.js-%2361DAFB.svg?style=for-the-badge&logo=express&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<br/>
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br/>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![shadcnui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Github Stats
 
-### Github Stats
+![Global Stats](https://github-readme-stats.vercel.app/api?username=cutenikki&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
+<br/>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutenikki&langs_count=10&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
 
-<a href='https://www.github.com/cutenikki'>
-  <img
-    src='https://github-readme-stats.vercel.app/api?username=cutenikki&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true'
-    alt="Global Stats"
-  />
-</a>
-<br><br />
-<a href='https://www.github.com/cutenikki'>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000" alt="Streak Stats" />
-</a>
-<br><br />
-<a href='https://www.github.com/cutenikki' align='left'>
-  <img
-    src='https://github-readme-stats.vercel.app/api/top-langs/?username=cutenikki&langs_count=10&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true'
-    alt='Top Languages'
-  />
-</a>
-<br><br />
+![](https://visitcount.itsvg.in/api?id=CuteNikki&icon=1&color=0)
