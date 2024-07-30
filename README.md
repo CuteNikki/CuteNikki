@@ -31,4 +31,4 @@
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutenikki&langs_count=10&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
 
-![](https://visitcount.itsvg.in/api?id=CuteNikki&icon=1&color=0)
+[![](https://visitcount.itsvg.in/api?id=cutenikki&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
