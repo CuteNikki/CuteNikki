@@ -1,7 +1,9 @@
 # Hi, my name is Nikki 👋
-- Self-taught developer, familiar with full-stack work 📚
-- I'm currently working on [a Discord Bot](https://github.com/CuteNikki/discord-bot) 🚀
-- I'm open to collaborate on anything 🤝
+- Self-taught developer and designer.
+- Familiar with full-stack work. 📚
+- I'm currently working on [a Discord Bot](https://github.com/CuteNikki/discord-bot) with Dashboard 🚀
+- and my very own, first portfolio website!
+- Open to collaborate on anything 🤝
 
 ## Socials
 
