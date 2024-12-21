@@ -1,7 +1,7 @@
 # Hi, my name is Nikki 👋
 - Self-taught developer and designer.
 - Familiar with full-stack work. 📚
-- I'm currently working on [a Discord Bot](https://github.com/CuteNikki/discord-bot) with Dashboard 🚀
+- I'm currently working on [Tinderhaj](https://github.com/CuteNikki/tinderhaj) and [a Discord Bot](https://github.com/CuteNikki/discord-bot)
 - and my very own, first portfolio website!
 - Open to collaborate on anything 🤝
 
