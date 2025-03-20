@@ -2,7 +2,7 @@
 - Self-taught developer and designer.
 - Familiar with full-stack work. 📚
 - I'm currently working on [Tinderhaj](https://github.com/CuteNikki/tinderhaj) and [a Discord Bot](https://github.com/CuteNikki/discord-bot)
-- and my very own, first portfolio website!
+- and [a Paper Plugin for Minecraft 1.21.4](https://github.com/CuteNikki/NisoPlugin)
 - Open to collaborate on anything 🤝
 
 ## Socials
