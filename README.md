@@ -7,8 +7,6 @@
 
 ## Socials
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/303142922780672013?showBanner=animated&waveColor=f159aa)](https://discord.com/users/303142922780672013)
-
 [<img src='https://img.shields.io/badge/profile-%234953c9.svg?style=for-the-badge&logo=discord&logoColor=white' alt="Discord" />](https://discord.com/users/303142922780672013)[<img src='https://img.shields.io/badge/server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt="Discord" />](https://discord.gg/ACR6RBQj4y)[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt="Instagram" />](https://instagram.com/blushingnikki)[<img src='https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white' alt="Twitter/X" />](https://x.com/blushingnikki)[<img src='https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" />](https://youtube.com/@CutestNikki)[<img src='https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white' alt="Twitch" />](https://twitch.tv/cutenikki)
 
 ## Skills/Tools
