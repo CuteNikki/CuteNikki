@@ -26,7 +26,7 @@
 
 ## Github Stats
 
-![Global Stats](https://github-readme-stats.vercel.app/api?username=cutenikki&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
+![Global Stats](https://github-readme-stats-git-main-nikki-personal.vercel.app/api?username=cutenikki&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
 <br/>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000)
 <br/>
