@@ -1,9 +1,8 @@
-# Hi, my name is Nikki 👋
-- Self-taught developer and designer.
-- Familiar with full-stack work. 📚
-- I'm currently working on [Tinderhaj](https://github.com/CuteNikki/tinderhaj) and [a Discord Bot](https://github.com/CuteNikki/discord-bot)
-- and [a Paper Plugin for Minecraft 1.21.4](https://github.com/CuteNikki/NisoPlugin)
-- Open to collaborate on anything 🤝
+# Hey, I'm Nikki 👋
+- Self-taught developer & designer
+- Mostly doing full-stack work 📚
+- Working on a few projects right now
+- Always open to collaborations 🤝
 
 ## Socials
 
