@@ -30,6 +30,6 @@
 <br/>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000)
 <br/>
-![Top Languages](https://stats.niso.moe/api/top-langs/?username=cutenikki&langs_count=10&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
+![Top Languages](https://stats.niso.moe/api/top-langs/?username=cutenikki&langs_count=5&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
 
 [![](https://visitcount.itsvg.in/api?id=cutenikki&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
