@@ -28,7 +28,7 @@
 
 ![Global Stats](https://stats.niso.moe/api?username=cutenikki&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
 <br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000)
+![Streak Stats](https://streak-stats.demolab.com/?user=CuteNikki&hide_border=true&background=00000000&fire=4F8CC9&sideNums=9f9f9f&ring=4F8CC9&currStreakNum=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9F9F9F&dates=9F9F9F&stroke=00000000)
 <br/>
 ![Top Languages](https://stats.niso.moe/api/top-langs/?username=cutenikki&langs_count=5&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
 
