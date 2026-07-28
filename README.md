@@ -8,6 +8,8 @@
 
 [<img src='https://img.shields.io/badge/profile-%234953c9.svg?style=for-the-badge&logo=discord&logoColor=white' alt="Discord" />](https://discord.com/users/303142922780672013)[<img src='https://img.shields.io/badge/server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt="Discord" />](https://discord.gg/ACR6RBQj4y)[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt="Instagram" />](https://instagram.com/blushingnikki)[<img src='https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white' alt="Twitter/X" />](https://x.com/blushingnikki)[<img src='https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" />](https://youtube.com/@BlushingNikki)[<img src='https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white' alt="Twitch" />](https://twitch.tv/cutenikki)
 
+![](https://komarev.com/ghpvc/?username=CuteNikki&label=PROFILE+VIEWS&style=for-the-badge)
+
 ## Skills/Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,4 +34,3 @@
 <br/>
 ![Top Languages](https://stats.niso.moe/api/top-langs/?username=cutenikki&langs_count=5&custom_title=Top%20%Languages&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true)
 
-[![](https://visitcount.itsvg.in/api?id=cutenikki&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
