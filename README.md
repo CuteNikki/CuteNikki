@@ -18,7 +18,7 @@ I build things for the web, Discord and my own home server, from small npm packa
 
 ## Skills
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/skills?languages=typescript%2Cjavascript%2Cjava%2Chtml5%2Ccss&runtimes=nodedotjs%2Cbun%2Cnpm%2Cpnpm&backend=express%2Cnestjs&frontend=react%2Creact:React%20Native%2Cnextdotjs&styling=tailwindcss%2Csass%2Cshadcnui%2Cmui&databases=postgresql%2Cmysql%2Cmongodb%2Credis%2Csqlite&design=figma%2Cai%2Cps%2Cblender&theme=dark"><img src="https://stats.niso.moe/skills?languages=typescript%2Cjavascript%2Cjava%2Chtml5%2Ccss&runtimes=nodedotjs%2Cbun%2Cnpm%2Cpnpm&backend=express%2Cnestjs&frontend=react%2Creact:React%20Native%2Cnextdotjs&styling=tailwindcss%2Csass%2Cshadcnui%2Cmui&databases=postgresql%2Cmysql%2Cmongodb%2Credis%2Csqlite&design=figma%2Cai%2Cps%2Cblender&theme=light" alt="Skills" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/skills?languages=typescript%2Cjavascript%2Cjava%2Chtml5%2Ccss&runtimes=nodedotjs%2Cbun%2Cnpm%2Cpnpm&backend=express%2Cnestjs&frontend=react%2Creact:React%20Native%2Cnextdotjs&styling=tailwindcss%2Csass%2Cshadcnui%2Cmui&databases=postgresql%2Cmysql%2Cmongodb%2Credis%2Csqlite&design=figma%2Cai%2Cps%2Cblender&v=2&theme=dark"><img src="https://stats.niso.moe/skills?languages=typescript%2Cjavascript%2Cjava%2Chtml5%2Ccss&runtimes=nodedotjs%2Cbun%2Cnpm%2Cpnpm&backend=express%2Cnestjs&frontend=react%2Creact:React%20Native%2Cnextdotjs&styling=tailwindcss%2Csass%2Cshadcnui%2Cmui&databases=postgresql%2Cmysql%2Cmongodb%2Credis%2Csqlite&design=figma%2Cai%2Cps%2Cblender&v=2&theme=light" alt="Skills" width="100%"></picture>
 
 ## Projects
 
