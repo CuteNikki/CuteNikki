@@ -46,4 +46,4 @@ I build things for the web, Discord and my own home server, from small npm packa
 <a href="https://github.com/CuteNikki/NisoPlugin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/repo/CuteNikki/NisoPlugin?label=minecraft%20plugin&theme=dark"><img src="https://stats.niso.moe/repo/CuteNikki/NisoPlugin?label=minecraft%20plugin&theme=light" alt="NisoPlugin" width="49%"></picture></a>
 </p>
 
-<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&theme=light" alt="Profile views"></picture></p>
+<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=light" alt="Profile views"></picture></p>
