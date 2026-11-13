@@ -1,0 +1,40 @@
+# Keeps the stats card's alt text saying what the card shows. Runs every day,
+# when someone changes the README, and by hand from the Actions tab. Its own
+# commits are made with GITHUB_TOKEN, which doesn't start workflows, so it
+# doesn't set itself off.
+name: Alt text
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  push:
+    branches: [main]
+    paths: [README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: alt-text
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: node .github/scripts/alt-text.mjs
+
+      - name: Commit, if anything changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am 'Update the alt text with the latest numbers'
+          git push
