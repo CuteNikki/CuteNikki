@@ -14,7 +14,7 @@ I build things for the web, Discord and my own home server, from small npm packa
 
 ## Stats
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 4,856 commits, 48 pull requests, 6 issues, 39 stars earned and 55 repositories. Current streak: 1 day, longest: 18 days, 4,967 contributions in all. Top languages: TypeScript 75%, JavaScript 14%, CSS 6.7%, Java 2.6% and Python 1.4%. 2,668 contributions in the last year." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 4,857 commits, 48 pull requests, 6 issues, 39 stars earned and 55 repositories. Current streak: 1 day, longest: 18 days, 4,968 contributions in all. Top languages: TypeScript 75%, JavaScript 14%, CSS 6.7%, Java 2.6% and Python 1.4%. 2,669 contributions in the last year." width="100%"></picture>
 
 ## Skills
 
@@ -46,4 +46,4 @@ I build things for the web, Discord and my own home server, from small npm packa
 <a href="https://github.com/CuteNikki/NisoPlugin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/repo/CuteNikki/NisoPlugin?label=minecraft%20plugin&theme=dark"><img src="https://stats.niso.moe/repo/CuteNikki/NisoPlugin?label=minecraft%20plugin&theme=light" alt="NisoPlugin (minecraft plugin): Plugin for Minecraft 26.2 that provides various features to enhance your server experience" width="49%"></picture></a>
 </p>
 
-<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=light" alt="Profile views: 256, counted since July 2026"></picture></p>
+<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=light" alt="Profile views: 265, counted since July 2026"></picture></p>
