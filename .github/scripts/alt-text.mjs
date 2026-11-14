@@ -19,8 +19,8 @@ const list = (items) => (items.length > 1 ? `${items.slice(0, -1).join(', ')} an
 const card =
   `${s.name}'s GitHub stats: ${n(s.commits)} commits, ${n(s.pullRequests)} pull requests, ${n(s.issues)} issues, ` +
   `${n(s.stars)} stars earned and ${n(s.repos)} repositories. ` +
-  `Current streak: ${days(s.streak.current)}, longest: ${days(s.streak.longest)}, ${n(s.contributions)} contributions in all. ` +
-  `Top languages: ${list(s.languages.map((l) => `${l.name} ${l.share}`))}. ` +
+  `Current streak: ${days(s.streak.current.days)}, longest: ${days(s.streak.longest.days)}, ${n(s.contributions)} contributions in all. ` +
+  `Top languages: ${list(s.languages.map((l) => `${l.name} ${l.label}`))}. ` +
   `${n(s.lastYear)} contributions in the last year.`;
 const views = `Profile views: ${n(s.views)}, counted since July 2026`;
 
