@@ -13,7 +13,7 @@ I build things for the web, Discord and my own home server, from small npm packa
 
 ## Stats
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 4,880 commits, 48 pull requests, 6 issues, 40 stars earned and 55 repositories. Current streak: 2 days, longest: 18 days, 4,991 contributions in all. Top languages: TypeScript 75%, JavaScript 14%, CSS 6.7%, Java 2.6% and Python 1.4%. 2,692 contributions in the last year." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 4,881 commits, 48 pull requests, 6 issues, 40 stars earned and 55 repositories. Current streak: 2 days, longest: 18 days, 4,992 contributions in all. Top languages: TypeScript 75%, JavaScript 14%, CSS 6.7%, Java 2.6% and Python 1.4%. 2,693 contributions in the last year." width="100%"></picture>
 
 ## Skills
 
