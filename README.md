@@ -12,7 +12,7 @@ I build things for the web, Discord and my own home server, from small npm packa
 
 ## Stats
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 5,254 commits, 52 pull requests, 7 issues, 36 stars earned and 56 repositories. Current streak: 14 days, longest: 18 days, 5,373 contributions in all. Top languages: TypeScript 75%, JavaScript 15%, CSS 7.0%, Java 2.5% and Dockerfile 1.5%. 3,066 contributions in the last year." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/card?user=CuteNikki&theme=dark"><img src="https://stats.niso.moe/card?user=CuteNikki&theme=light" alt="Nikki's GitHub stats: 5,261 commits, 52 pull requests, 7 issues, 36 stars earned and 56 repositories. Current streak: 15 days, longest: 18 days, 5,380 contributions in all. Top languages: TypeScript 75%, JavaScript 15%, CSS 7.0%, Java 2.5% and Dockerfile 1.5%. 3,073 contributions in the last year." width="100%"></picture>
 
 ## Skills
 
@@ -35,4 +35,4 @@ I build things for the web, Discord and my own home server, from small npm packa
 <a href="https://github.com/CuteNikki/readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/repo/CuteNikki/readme-stats?label=self-hosted&desc=Draws%20the%20stats%2C%20skills%20and%20project%20cards%20on%20this%20page%2C%20in%20one%20matching%20style.&theme=dark"><img src="https://stats.niso.moe/repo/CuteNikki/readme-stats?label=self-hosted&theme=light" alt="readme-stats (self-hosted): Draws the stats, skills and project cards on this page, in one matching style." width="49%"></picture></a>
 </p>
 
-<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=light" alt="Profile views: 519, counted since July 2026"></picture></p>
+<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=dark"><img src="https://stats.niso.moe/views?user=CuteNikki&since=2026-07-28&theme=light" alt="Profile views: 523, counted since July 2026"></picture></p>
